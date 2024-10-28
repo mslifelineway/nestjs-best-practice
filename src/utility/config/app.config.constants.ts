@@ -1,0 +1,13 @@
+export const appConfigConstants = {
+  SERVER: 'SERVER',
+  HOST: 'SERVER.HOST',
+  PORT: 'SERVER.PORT',
+
+  NODE_ENV: 'NODE_ENV',
+
+  LOGGER: 'LOGGER',
+  LOG_LEVEL: 'LOGGER.LEVEL',
+  LOGGER_FILE: 'LOGGER.FILE',
+
+  SWAGGER_URL: 'SWAGGER_URL',
+};

@@ -1,0 +1,16 @@
+NODE_ENV: 'dev'
+
+# SERVER
+SERVER:
+  HOST: 'localhost'
+  PORT: 3000
+
+# SWAGGER
+SWAGGER_URL: '/api'
+
+# LOGGER
+LOGGER:
+  LEVEL: debug
+  FILE_NAME: app.log
+  ERROR_FILE_NAME: error.log
+  DATE_FORMAT: 'YYYY-MM-DD HH:mm:ss'
